@@ -27,9 +27,9 @@ This repository contains a list of papers that focus on the design and implement
 
 ## In-Memory Hash Indexing
 * [Algorithmic Improvements for Fast Concurrent Cuckoo Hashing](https://dl.acm.org/citation.cfm?id=2592820), X. Li, et al. EuroSys, 2014
-* [SILT: A Memory-Efficient, High-Performance Key-Value Store](https://www.cs.cmu.edu/~dga/papers/silt-sosp2011.pdf) - Lim et. al. SOSP 2011
 ## External Key Value Storage
 * [MICA: A Holistic Approach to Fast In-Memory Key-Value Storage](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-lim.pdf) - Lim et. al., NSDI 2014
+* [SILT: A Memory-Efficient, High-Performance Key-Value Store](https://www.cs.cmu.edu/~dga/papers/silt-sosp2011.pdf) - Lim et. al. SOSP 2011
 * [Faster: A Concurrent Key-Value Store with In-Place Updates](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf) - Chandramouli et. al., SIGMOD 2018
 ## Others
 * J. Rao, et al., [CSB+Tree Making B+-Trees Cache Conscious in Main Memory](https://dl.acm.org/citation.cfm?id=335449), in SIGMOD, 2000.
