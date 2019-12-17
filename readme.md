@@ -6,6 +6,7 @@ This repository contains a list of papers that focus on the design and implement
 ## Contents
 - [Surveys](#surveys)
 - [In-Memory Tree Indexing](#in-memory-tree-indexing)
+- [In-Memory Hash Indexing](#in-memory-hash-indexing)
 
 - - -
 
@@ -13,19 +14,6 @@ This repository contains a list of papers that focus on the design and implement
 * D. Lomet, [The Evolution of Effective B-tree: Page Organization and Techniques: A Personal Account](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p64-lomet.pdf), in ACM SIGMOD Record, 2001.
 * G. Graefe, [A Survey of B-Tree Locking Techniques](https://dl.acm.org/citation.cfm?id=1806907.1806908), in TODS, 2010.
 * G. Graefe, [Modern B-tree techniques](https://www.nowpublishers.com/article/Details/DBS-028), in Foundations and Trends in Databases, 2011.
-
-## HDD-Based Tree Indexing
-* R. Bayer, et al., [Organization and Maintenance of Large Ordered Indices](https://infolab.usc.edu/csci585/Spring2010/den_ar/indexing.pdf), in SIGFIDET, 1970. _(original B-Tree paper)_
-* R. Bayer, et al., [Prefix B-Trees](https://dl.acm.org/citation.cfm?id=320530), in TODS, 1977.
-
-
-## SSD-Based Tree Indexing
-* Y. Li, et al., [Tree Indexing on Solid State Drives](https://dl.acm.org/citation.cfm?id=1920990), in VLDB, 2010.
-
-## NVM-Based Tree Indexing
-* S. Chen, et al., [Persistent B+-Trees in Non-Volatile Main Memory](http://www.vldb.org/pvldb/vol8/p786-chen.pdf), in VLDB, 2015.
-* I. Oukid, et al., [FPTree: A Hybrid SCM-DRAM Persistent and Concurrent B-Tree for Storage Class Memory](https://dl.acm.org/citation.cfm?id=2915251), in SIGMOD, 2016.
-* S. Lee, et al., [WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems](https://www.usenix.org/system/files/conference/fast17/fast17-lee.pdf), in FAST, 2017.
 
 ## In-Memory Tree Indexing
 * T. Lehman, et al., [A Study of Index Structures for Main Memory Database Management Systems](http://www.vldb.org/conf/1986/P294.PDF), in VLDB, 1986.
@@ -39,6 +27,8 @@ This repository contains a list of papers that focus on the design and implement
 * V. Leis, et al., [The ART of Practical Synchronization](https://dl.acm.org/citation.cfm?id=2933352), in DaMoN, 2016.
 * H. Zhang, et al., [Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes](https://dl.acm.org/citation.cfm?id=2915222), in SIGMOD, 2016.
 * R. Binna, et al., [HOT: A Height Optimized Trie Index for Main-Memory Database Systems](https://dl.acm.org/citation.cfm?id=3183713.3196896), in SIGMOD, 2018.
+
+## In-Memory Hash Indexing
 * X. Li, et al., [Algorithmic Improvements for Fast Concurrent Cuckoo Hashing](https://dl.acm.org/citation.cfm?id=2592820), in EuroSys, 2014.
 
 
