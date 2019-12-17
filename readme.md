@@ -17,23 +17,19 @@ This repository contains a list of papers that focus on the design and implement
 
 ## In-Memory Tree Indexing
 * T. Lehman, et al., [A Study of Index Structures for Main Memory Database Management Systems](http://www.vldb.org/conf/1986/P294.PDF), in VLDB, 1986.
-* J. Rao, et al., [Cache Conscious Indexing for Decision-Support in Main Memory](http://www.vldb.org/conf/1999/P7.pdf), in VLDB, 1999.
-* J. Rao, et al., [CSB+Tree Making B+-Trees Cache Conscious in Main Memory](https://dl.acm.org/citation.cfm?id=335449), in SIGMOD, 2000.
 * M. Bender, et al., [Cache-Oblivious Streaming B-Trees](https://dl.acm.org/citation.cfm?id=1248393), in SPAA, 2007.
 * C. Kim, et al., [FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs](https://dl.acm.org/citation.cfm?id=1807206), in SIGMOD, 2010.
 * Y. Mao, et al., [Cache Craftiness for Fast Multicore Key-Value Storage](https://dl.acm.org/citation.cfm?id=2168855), in EuroSys, 2012.
-* J. Levandoski, et al., [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/), ICDE, 2013.
 * V. Leis, et al., [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf), in ICDE, 2013.
 * V. Leis, et al., [The ART of Practical Synchronization](https://dl.acm.org/citation.cfm?id=2933352), in DaMoN, 2016.
 * H. Zhang, et al., [Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes](https://dl.acm.org/citation.cfm?id=2915222), in SIGMOD, 2016.
 * R. Binna, et al., [HOT: A Height Optimized Trie Index for Main-Memory Database Systems](https://dl.acm.org/citation.cfm?id=3183713.3196896), in SIGMOD, 2018.
 
 ## In-Memory Hash Indexing
-* X. Li, et al., [Algorithmic Improvements for Fast Concurrent Cuckoo Hashing](https://dl.acm.org/citation.cfm?id=2592820), in EuroSys, 2014.
+* [Algorithmic Improvements for Fast Concurrent Cuckoo Hashing](https://dl.acm.org/citation.cfm?id=2592820), X. Li, et al. EuroSys, 2014
 
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Yingjun Wu](https://yingjunwu.github.io/) has waived all copyright and related or neighboring rights to this work.
+## External Key Value Storage
+* [MICA: A Holistic Approach to Fast In-Memory Key-Value Storage](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-lim.pdf) - Lim et. al., NSDI 2014
+## Others
+* J. Rao, et al., [CSB+Tree Making B+-Trees Cache Conscious in Main Memory](https://dl.acm.org/citation.cfm?id=335449), in SIGMOD, 2000.
+* J. Levandoski, et al., [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/), ICDE, 2013.
