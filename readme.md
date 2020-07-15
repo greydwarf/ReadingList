@@ -34,3 +34,4 @@ This repository contains a list of papers that focus on the design and implement
 ## Others
 * J. Rao, et al., [CSB+Tree Making B+-Trees Cache Conscious in Main Memory](https://dl.acm.org/citation.cfm?id=335449), in SIGMOD, 2000.
 * J. Levandoski, et al., [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/), ICDE, 2013.
+* J. Waldo, et.al., [A Note on Distributed Computing](https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/papers/smli_tr-94-29.pdf)
